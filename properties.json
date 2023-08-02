@@ -1,11 +1,13 @@
 {
-  "version": {
-    "ac_llm":"0.1.0",
-    "ac_forecast":"0.0.1"
-  },
-  "uses": {
-    "ac_llm":"3",
-    "ac_forecast":"4"
-    
-  }
+    "repo": {
+        "ac_llm": [
+            {"description":"demo de chat", "usos":1, "version":"0.0.1"},
+            {"description":"demo de chat", "usos":2, "version":"0.1.0"},
+            {"description":"demo de chat", "usos":3, "version":"0.1.1"}
+        ],
+        "ac_forecast": [
+            {"description":"demo de chat", "usos":2, "version":"0.0.1"},
+            {"description":"demo de chat", "usos":4, "version":"0.1.0"}
+        ]
+    }
 }
