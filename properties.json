@@ -1,13 +1,14 @@
 {
     "repo": {
         "ac_llm": [
-            {"description":"demo de chat", "usos":1, "version":"0.0.1"},
+            {"description":"demo de chat", "usos":3, "version":"0.1.1"},
             {"description":"demo de chat", "usos":2, "version":"0.1.0"},
-            {"description":"demo de chat", "usos":3, "version":"0.1.1"}
+            {"description":"demo de chat", "usos":1, "version":"0.0.1"}
+            
         ],
         "ac_forecast": [
-            {"description":"demo de chat", "usos":2, "version":"0.0.1"},
-            {"description":"demo de chat", "usos":4, "version":"0.1.0"}
+            {"description":"demo de chat", "usos":4, "version":"0.1.0"},
+            {"description":"demo de chat", "usos":2, "version":"0.0.1"}
         ]
     }
 }
