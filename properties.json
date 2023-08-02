@@ -1,5 +1,11 @@
 {
-  "repo": {
-    "ac_llm":"0.1.0"
+  "version": {
+    "ac_llm":"0.1.0",
+    "ac_forecast":"0.0.1"
+  },
+  "uses": {
+    "ac_llm":"3",
+    "ac_forecast":"4"
+    
   }
 }
