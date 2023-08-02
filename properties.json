@@ -1,18 +1,5 @@
 {
   "repo": {
-    "ac_llm": [
-      {
-        "Version": "0.1.0",
-        "Description": "Demo de chat",
-        "uso en proyectos": "3"
-      }
-    ],
-    "ac_forecast": [
-      {
-        "Version": "0.1.0",
-        "Description": "Contenedore de modelos de predicción",
-        "uso en proyectos": "4"
-      }
-    ]
+    "ac_llm":"0.1.0"
   }
 }
