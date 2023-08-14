@@ -1,9 +1,9 @@
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAI-ML-Lab%2Fresources%2Fmain%2Fproperties.json&query=%24.repo.ac_forecast%5B0%5D.version&logo=bitbucket&label=version&labelColor=1A3B47) ![version from json](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAI-ML-Lab%2Fresources%2Fmain%2Fproperties.json&query=%24.repo.ac_forecast%5B%3F(%40.version%20%3D%3D%20'0.1.0')%5D.usos&label=usos%20en%20proyecto&labelColor=1A3B47) ![contributors](https://img.shields.io/badge/contributors-2-79C5B4?&labelColor=1A3B47) ![commits](https://img.shields.io/badge/commits-59-79C5B4?&labelColor=1A3B47) ![website](https://img.shields.io/website/http/ailyn.link?&labelColor=1A3B47&label=demo) [![Email me](https://img.shields.io/badge/Email%20me-1A3B47)](mailto:eejimenez@minsait.com) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EgAr7ZjzZe1DdlqQsHluX20i5GCZu_rV?usp=sharing) ![language](https://img.shields.io/badge/language-python-blue)
 [![Download as PDF Button](https://img.shields.io/badge/Download%20%20pdf-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://mdtopdf.up.railway.app/convertPdf?url=https://raw.githubusercontent.com/AI-ML-Lab/resources/main/Readme.md)
 <p align="center">
-<img src="images/wh.png"width=20%>
+<img src="../images/wh.png"width=20%>
 <p align="center" href=>
-    <img src="images/m_dimensiones.gif"width=7%>
+    <img src="..images/m_dimensiones.gif"width=7%>
     <img src="images/m_lab.png" width=30%>
 <p align="center">
 <img src="images/wh.png"width=10%>
