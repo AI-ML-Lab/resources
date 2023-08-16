@@ -4,9 +4,9 @@
 <img src="/../images/wh.png"width=20%>
 <p align="center" href=>
     <img src="..images/m_dimensiones.gif"width=7%>
-    <img src="images/m_lab.png" width=30%>
+    <img src="../images/m_lab.png" width=30%>
 <p align="center">
-<img src="images/wh.png"width=10%>
+<img src="/..images/wh.png"width=10%>
 
 ![banner](images/m_banner-acpronosticos.png)
 
