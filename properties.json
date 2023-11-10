@@ -11,7 +11,7 @@
             {"description":"demo de chat", "usos":2, "version":"0.0.1"}
         ],
         "ac_generacion-video": [
-            {"description":"demo de generación de video", "usos":0, "version":"0.1.0"},
+            {"description":"demo de generación de video", "usos":0, "version":"0.1.0"}
         ]
     }
 }
