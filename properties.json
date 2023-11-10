@@ -14,7 +14,7 @@
             {"description":"demo de generación de video", "usos":0, "version":"0.1.0"}
         ],
         "ac_generacion-imagen":[
-            {"description":"demo de generación de imagen", "usos":0, "version":0.0.1}
+            {"description":"demo de generación de imagen", "usos":0, "version":"0.0.1"}
         ]
     }
 }
